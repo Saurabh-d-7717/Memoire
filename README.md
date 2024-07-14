@@ -2,7 +2,14 @@
 
 Memoire is a cutting-edge journaling application designed to help users capture their thoughts, ideas, and memories in an organized and intuitive manner. With a focus on ease of use and powerful features, Memoire allows users to create, manage, and reflect on their journal entries effortlessly. Whether you're a casual diarist or a dedicated journal keeper, Memoire provides the tools you need to keep your writing safe and accessible.
 
-## Getting Started
+<!-- ROADMAP -->
+## Features to implement
+
+- [ ] Daily journal app with remider at the end of the day and quotes
+- [ ] calender view of all journal
+- [ ] streak functionality (optional)
+      
+<!-- ## Getting Started
 
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
@@ -75,7 +82,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/memoire/tags).
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/memoire/tags). 
 
 ## Authors
 
@@ -85,4 +92,4 @@ See also the list of [contributors](https://github.com/yourusername/memoire/cont
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details. -->
